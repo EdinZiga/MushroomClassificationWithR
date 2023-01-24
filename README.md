@@ -1,5 +1,5 @@
 # Mushroom Classification With R
-  Based on dataset gotten from Kaggle, including 23 columns and roughly 8000 rows. The goal was to classify if a mushrooms was poisonous or eidable.
+  Based on dataset gotten from Kaggle, including 23 columns and roughly 8000 rows. The goal was to classify if a mushrooms was poisonous or edible.
   Kaggle Dataset - https://www.kaggle.com/datasets/uciml/mushroom-classification
 
 
