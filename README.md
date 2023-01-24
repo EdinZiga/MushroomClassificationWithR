@@ -8,7 +8,7 @@
   
 ## Models Implemented
   - Random Forest Algorithm for Feature Selection
-  - Artificial Neural Network for classification.
+  - Artificial Neural Network for classification
   
 ## How to Use
  Clone the repository to your local machine.
