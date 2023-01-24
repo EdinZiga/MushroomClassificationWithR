@@ -12,7 +12,7 @@
   
 ## How to Use
  Clone the repository to your local machine.
- Download the .csv file from Kaggle and place it in the same folder as the .R file
+ Download the .csv file from Kaggle and place it in the same folder as the .R file.
  Run everything line by line until you reach the end, the code is made so its plug and use.
  
  ## Licence 
